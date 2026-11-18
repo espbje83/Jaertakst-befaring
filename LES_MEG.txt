@@ -1,0 +1,12 @@
+JÆRTAKST BEFARING - IPAD PRO TESTVERSJON 2.0
+
+Bytt ut ALLE filene i GitHub-repositoryets rot med disse fire filene:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon.png
+
+Commit endringene. Vent til GitHub Pages-deploy er grønn under Actions.
+På iPad: slett gammel Jærtakst-app fra Hjem-skjermen, åpne GitHub Pages-adressen i Safari, last siden på nytt, test sjekkpunktene, og velg deretter Del > Legg til på Hjem-skjermen.
+
+Denne versjonen retter iPad-feilen der sjekkpunktvalg alltid endte på Ikke relevant. Radiofeltene har nå eksplisitt 1x1 px hitbox uten pointer-events, mens hvert synlig label er egen trykkflate.
