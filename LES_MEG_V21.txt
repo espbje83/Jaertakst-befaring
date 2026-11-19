@@ -1,0 +1,10 @@
+JÆRTAKST BEFARING - IPAD PRO v2.1
+
+Ny rapporttype: Forenklet rapport.
+- Ingen typiske sjekkpunkter.
+- Sjekkpunkt-fanen skjules for denne rapporttypen.
+- Registrer relevante forhold direkte under Registrerte punkter med + Nytt punkt.
+- PDF utelater kapittelet Kontrollpunkter.
+- Kvalitetskontrollen krever ikke sjekkpunkter for Forenklet rapport.
+
+GitHub: erstatt index.html, manifest.webmanifest, service-worker.js og icon.png med filene i denne pakken. Commit endringene og vent til Pages deployment er grønn.
